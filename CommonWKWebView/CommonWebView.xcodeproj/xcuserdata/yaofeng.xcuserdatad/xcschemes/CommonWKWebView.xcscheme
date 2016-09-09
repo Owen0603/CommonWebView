@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "792936681D7D15F70062571E"
-               BuildableName = "CommonWKWebView.app"
-               BlueprintName = "CommonWKWebView"
-               ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+               BuildableName = "CommonWebView.app"
+               BlueprintName = "CommonWebView"
+               ReferencedContainer = "container:CommonWebView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7929367C1D7D15F70062571E"
-               BuildableName = "CommonWKWebViewTests.xctest"
-               BlueprintName = "CommonWKWebViewTests"
-               ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+               BuildableName = "CommonWebViewTests.xctest"
+               BlueprintName = "CommonWebViewTests"
+               ReferencedContainer = "container:CommonWebView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "792936871D7D15F70062571E"
-               BuildableName = "CommonWKWebViewUITests.xctest"
-               BlueprintName = "CommonWKWebViewUITests"
-               ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+               BuildableName = "CommonWebViewUITests.xctest"
+               BlueprintName = "CommonWebViewUITests"
+               ReferencedContainer = "container:CommonWebView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "792936681D7D15F70062571E"
-            BuildableName = "CommonWKWebView.app"
-            BlueprintName = "CommonWKWebView"
-            ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+            BuildableName = "CommonWebView.app"
+            BlueprintName = "CommonWebView"
+            ReferencedContainer = "container:CommonWebView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "792936681D7D15F70062571E"
-            BuildableName = "CommonWKWebView.app"
-            BlueprintName = "CommonWKWebView"
-            ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+            BuildableName = "CommonWebView.app"
+            BlueprintName = "CommonWebView"
+            ReferencedContainer = "container:CommonWebView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "792936681D7D15F70062571E"
-            BuildableName = "CommonWKWebView.app"
-            BlueprintName = "CommonWKWebView"
-            ReferencedContainer = "container:CommonWKWebView.xcodeproj">
+            BuildableName = "CommonWebView.app"
+            BlueprintName = "CommonWebView"
+            ReferencedContainer = "container:CommonWebView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
